@@ -1,8 +1,9 @@
 # CursoJavaBasico
 Curso Java Básico 
 https://loiane.training/
-Certificado: 
-https://loiane.training/certificado/GPCI2YJxgjooRGXtatoM
+
+Link do Certificado: 
+* https://loiane.training/certificado/GPCI2YJxgjooRGXtatoM
 
 Curso de Java Básico
 Linguagem de Programação
