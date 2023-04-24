@@ -1,23 +1,10 @@
 # CursoJavaBasico
 Curso Java Básico 
+
+carga horária de 30 horas
+
 https://loiane.training/
 
-Link do Certificado: 
-* https://loiane.training/certificado/GPCI2YJxgjooRGXtatoM
-
 Curso de Java Básico
-Linguagem de Programação
-API
-Ambiente de Execução
 
- • Simples
- • orientada a objetos
- •Distribuída
- •Multithreaded
- •Dinâmica
- •Arquitetura neutra
- •portável
- •ótima performace
- •robusta 
- •segura
-
+![certificado ](https://user-images.githubusercontent.com/57420848/234091089-a3cd8618-ed21-4e7a-85e6-425413e0a515.png)
